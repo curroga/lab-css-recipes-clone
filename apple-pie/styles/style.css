@@ -1,0 +1,33 @@
+body {
+  margin: 0px;
+}
+
+.fondo {
+  background-image: url("../images/apple-pie.jpg");
+  background-position: center;
+  background-size: cover;
+  color: white;
+  height: 600px;
+  text-align: center;
+  padding: 5px;
+}
+
+.fotos {
+  display: block;
+  margin: 0px auto;
+  width: 400px;
+  padding-bottom: 20px;
+}
+.centrar-parrafo {
+  text-align: center;
+  padding: 50px 100px;
+}
+.pagina23 {
+  margin-left: 50px;
+}
+li::marker {
+  content: "-";
+}
+hr {
+  margin: 0px 50px;
+}
